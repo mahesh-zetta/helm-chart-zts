@@ -8,6 +8,6 @@ entries:
     digest: 29089aabaa8aa08a03215098b1982ad38f6cd9de1c9b25ff842003a53cad881d
     name: Zettaset Xcrypt 
     urls:
-    - https://mahesh-zetta.github.io/helm-chart-zts/my-app-0.1.0.tgz
+    - https://mahesh-zetta.github.io/helm-chart-zts/version1/zettaset/my-app-0.1.0.tgz
     version: 1.0.0
 generated: "2023-06-21T23:08:45.355790336-06:00"
